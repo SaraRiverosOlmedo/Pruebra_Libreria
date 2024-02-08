@@ -13,7 +13,7 @@ Es una WebApp que tiene como funcion mostrarnos en detalle información relevant
 3. Dirígete  a Github especificamene a esta url https://github.com/SaraRiverosOlmedo/Pruebra_Libreria
 4. Desde Visual Studio Code abrir una nueva venta y dirigirte a "Clone Git Repository" gracias a esto se podrá realizar la clonación del proyecto utilizando la Url que se indica en el punto anterior.
 5. Una vez clonado el proyecto se deberá instalar las dependencias abriendo el terminal que se encuentra en la barra de tareas superior de la pantalla, una vez abierto el terminal ejecutar el siguiente comando *npm install* (las dependencias utilizadas para este proyecto son: HeadlessUI, TailwindCss, React.js, React-Table y react-router-dom. Para el testo: Jest, testing library y fetch-mock)
-6. Cuando rtdo esté ok proceder a arrancar el proyecto utilizando *npm start*
+6. Cuando todo esté ok proceder a arrancar el proyecto utilizando *npm start*
 7. Para ejecutar los test, utilizar *npm test* 
 
 La elección de caracteristicas especificas pata esté proyecto, decidí utilizar create-react-app ya que al ser una Single page app es lo mejor para páginas web pequeñas que requieren rapidez de carga.
